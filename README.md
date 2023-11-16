@@ -8,10 +8,10 @@ This repo outlines how to create a Kalyp Technologies open source project, here 
 
 <p align="center"> 
     <a href="https://github.com/Kalyp-Technologies/.github/actions/workflows/main.yml">
-        <img src="https://github.com/Kalyp Technologies/.github/actions/workflows/main.yml/badge.svg" alt="Build" />
+        <img src="https://github.com/Kalyp-Technologies/.github/actions/workflows/main.yml/badge.svg" alt="Build" />
     </a>
     <a href="https://github.com/Kalyp-Technologies/.github/blob/main/LICENSE.md">
-        <img src="https://img.shields.io/github/license/Kalyp Technologies/.github" alt="Licence" />
+        <img src="https://img.shields.io/github/license/Kalyp-Technologies/.github" alt="Licence" />
     </a>
     <a href="https://conventionalcommits.org">
         <img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg" alt="Conventional Commits" />
